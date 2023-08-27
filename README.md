@@ -6,6 +6,12 @@
 
 Welcome to the <span style="color: #FF5733;">Movie Recommender System</span>, your gateway to a personalized movie-watching experience!
 
+## Architecture
+<div align="center">
+  <img src="https://github.com/Atulok0506/movie-recommender-system/blob/main/Content-based-recommendation-architecture.ppm" alt="Content-Based Architecture" width="400"/>
+</div>
+
+
 ## Overview
 
 This end-to-end machine learning model leverages content-based recommendation techniques to bring you the perfect movies for every mood. The system is powered by the TMDB dataset and combines data preprocessing, vectorization, and cosine similarity to deliver tailored movie suggestions.
